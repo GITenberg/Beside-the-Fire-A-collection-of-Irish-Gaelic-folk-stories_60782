@@ -1,0 +1,37 @@
+_repo: Beside-the-Fire-A-collection-of-Irish-Gaelic-folk-stories_60782
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Nutt, Alfred Trübner
+    alias: Nutt, Alfred Trubner
+    birthdate: 1856
+    deathdate: 1910
+    gutenberg_agent_id: '41572'
+    url: http://www.gutenberg.org/2009/agents/41572
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Nutt
+creator:
+  editor:
+    agent_name: Hyde, Douglas
+    birthdate: 1860
+    deathdate: 1949
+    gutenberg_agent_id: '36019'
+    url: http://www.gutenberg.org/2009/agents/36019
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_Hyde
+description: ''
+gutenberg_issued: '2019-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60782'
+language:
+- en
+- ga
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Celts -- Ireland -- Folklore'
+- !lcsh 'Tales -- Ireland'
+- GITenberg
+title: 'Beside the Fire: A collection of Irish Gaelic folk stories'
+url: http://www.gutenberg.org/ebooks/60782
