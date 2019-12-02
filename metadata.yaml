@@ -1,5 +1,5 @@
 _repo: Beside-the-Fire-A-collection-of-Irish-Gaelic-folk-stories_60782
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Nutt, Alfred Trübner
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '41572'
     url: http://www.gutenberg.org/2009/agents/41572
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Nutt
+covers:
+- cover_type: archival
+  image_path: 60782-h/images/cover.jpg
 creator:
   editor:
     agent_name: Hyde, Douglas
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36019
     wikipedia: http://en.wikipedia.org/wiki/Douglas_Hyde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60782#Beside-the-Fire-A-collection-of-Irish-Gaelic-folk-stories
 gutenberg_issued: '2019-11-25'
 gutenberg_type: Text
 identifiers:
